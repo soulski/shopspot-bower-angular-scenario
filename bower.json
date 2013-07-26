@@ -1,0 +1,12 @@
+{
+  "name": "shopspot-bower-angular-scenario",
+  "version": "1.0.0",
+  "main": "angular-scenario.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
